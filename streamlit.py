@@ -367,7 +367,6 @@
 
 # # Function to display logo
 # def display_logo():
-#     # st.image(r"C:\Users\Administrator\Downloads\logo.jpg", width=200)  # Replace with your image URL or path
 #     st.image("logo.jpg", width=200)
 
 
