@@ -367,7 +367,7 @@
 
 # # Function to display logo
 # def display_logo():
-#     st.image("logo.jpg", width=200)
+#    st.image("https://github.com/Anuskhancoding/Personalized-Learning-App/blob/main/logo.jpg?raw=true", width=200)
 
 
 # # Function to create a dataset
@@ -540,7 +540,7 @@ HEADERS = {
 
 # Function to display logo (only once at the top)
 def display_logo():
-    st.image(r"C:\\Users\\Administrator\\Downloads\\logo.jpg", width=200)
+    st.image("logo.jpg", width=200)
 
 # Function to create a dataset
 def create_dataset():
